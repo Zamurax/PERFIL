@@ -6,10 +6,9 @@
 
 
 <br>
+<img width="900" height="400" alt="image" src="https://github.com/user-attachments/assets/9ff596d5-b5c6-4949-bc87-522159ae46bc" />
 
 
-
-	
 ## **About me**
 <br>
 
